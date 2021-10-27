@@ -1,7 +1,3 @@
-# Author: Scott Bax
-# Date: 2/27/2020
-# Description: Represents a xiangqi game with multiple classes to represent the board and players.
-
 class XiangqiGame():
 
     """
